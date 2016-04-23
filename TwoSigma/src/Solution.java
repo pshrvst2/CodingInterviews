@@ -12,6 +12,7 @@ public class Solution {
 		// REad the input
 		Scanner sc = new Scanner(System.in);
 		String firstLine = sc.nextLine();
+		
 		String[] clusAndMach = firstLine.split("\\s");
 		String clustersStr = clusAndMach[0];
 		String machinesStr = clusAndMach[1];
