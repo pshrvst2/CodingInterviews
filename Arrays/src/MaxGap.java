@@ -7,6 +7,7 @@ public class MaxGap {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		// Testing
 		ArrayList<Integer> newList = new ArrayList<Integer>();
 		newList.add(3);
 		newList.add(5);
